@@ -1,0 +1,8 @@
+table,
+tr,
+td {
+  border: 1px solid black;
+}
+.newBox{
+  border: 1px solid red;
+}
